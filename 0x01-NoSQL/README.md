@@ -51,5 +51,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 **Chipatenii** - [GitHub Profile](https://github.com/Chipatenii)
 ```
-
-You can customize this template further if needed.
+---
